@@ -1,0 +1,95 @@
+
+body{
+    
+   background-image: url("C:/Users/DELL/Desktop/covidApi/images/visuals-0RPf107BLek-unsplash.png");
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+   
+  }
+  h2{
+    text-align: center;
+    display: block;
+    font-weight: bold;
+  }
+  h4{
+    font-weight: bold;
+  }
+  
+  
+  .header{
+    color:#fff;
+    background-color: #000;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px 30px;
+  
+  }
+  .result-box{
+    
+    width: 50%;
+    min-height: 500px;
+    margin: auto auto;
+    color: #A91079;
+  
+  
+  }
+  p{
+    font-size: 30px;
+   
+    
+  }
+  .name{
+    padding-top: 20px;
+    text-align: center;
+   margin-left: 40px;
+
+   border:5px solid wheat;
+   width: 230px;
+   height: 160px;
+  }
+  #coutryname{
+    color:green
+  }
+  #date{
+    color:green
+  }
+  
+  .date{
+    width: 230px;
+    height: 160px;
+    margin: 20px 40px;
+    text-align: center;
+    padding-top: 20px;
+    border:5px solid white
+   
+
+  }
+  .cases{
+    width: 230px;
+    height: 160px;
+    text-align: center;
+    padding-top: 20px;
+    border:5px solid white
+  }
+  .td{
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 20px;
+   border:5px solid wheat;
+   width: 230px;
+   height: 160px;
+  }
+  
+ /* #myTable{
+  
+    color:#000;
+  margin: 40px 150px;
+
+  }*/
+  
+  .heading4{
+    color:black;
+  
+  }
+  
